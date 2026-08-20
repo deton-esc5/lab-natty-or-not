@@ -20,13 +20,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Treiler "A batalha do Apocalipse - o Filme"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Cena do trecho do libro onde Ablon e Orion se encontram no Cristo Redentor
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini
+
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
